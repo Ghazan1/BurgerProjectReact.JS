@@ -10,6 +10,7 @@ class App extends Component{
       {ID: '01',name: 'Ghazan',age: 22},
       {ID: '02',name: 'Ali', age: 26},
       {ID: '03',name: 'Shah',age: 28},
+      {ID:'04',name: 'Saad',age:27},
   ],
    showPerson: false
   }
