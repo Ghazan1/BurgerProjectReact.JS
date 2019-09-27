@@ -48,7 +48,22 @@ class App extends Component{
 
   render(){
      let person = null;
+<<<<<<< HEAD
      let btnClass = '';
+=======
+
+     const style = {
+     backgroundColor: 'green',
+     font: 'inherit',
+     border: '1px solid blue',
+     padding: '8px',
+     cursor: 'pointer',
+     ':hover': {
+       backgroundColor: 'white',
+       color: 'black',
+     }
+     };
+>>>>>>> 6343b0e55a3ecb06be2e70196b981d246643303d
 
      if (this.state.showPerson){
       person = (
