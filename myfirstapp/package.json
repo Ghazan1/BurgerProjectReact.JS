@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "@babel/core": "7.6.0",
     "@svgr/webpack": "4.3.2",
     "@typescript-eslint/eslint-plugin": "^2.2.0",
@@ -42,6 +43,9 @@
     "postcss-normalize": "7.0.1",
     "postcss-preset-env": "6.7.0",
     "postcss-safe-parser": "4.0.1",
+=======
+    "radium": "^0.26.0",
+>>>>>>> 3de14a8a95bc7b4b115ea9faf523afaf9e9b9573
     "react": "^16.9.0",
     "react-app-polyfill": "^1.0.3",
     "react-app-rewired": "^1.6.2",
